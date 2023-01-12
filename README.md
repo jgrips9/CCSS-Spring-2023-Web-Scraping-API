@@ -1,7 +1,7 @@
 # CCSS-Spring-2023-Web-Scraping-API
 Welcome to the CCSS Spring 2023 Web Scraping/API Workshop using Python! We'll be using Google Colab notebooks for the code demo sessions within the workshop. You can click on the following buttons to launch the notebook in another tab:
 
-[Web Scraping Coding Demo](https://colab.research.google.com/drive/1FcY5EyDiBRowbykQUay-idMa1PUZx1SD?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcY5EyDiBRowbykQUay-idMa1PUZx1SD?usp=sharing)
 
 [Web Scraping Exercise](https://colab.research.google.com/drive/1egYeVhzxZJ_3AGEoK5bZIaxxLbpFBSLC?usp=share_link)
 

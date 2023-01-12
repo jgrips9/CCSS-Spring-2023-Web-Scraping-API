@@ -3,13 +3,13 @@ Welcome to the CCSS Spring 2023 Web Scraping/API Workshop using Python! We'll be
 
 [![Web Scraping Coding Demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcY5EyDiBRowbykQUay-idMa1PUZx1SD?usp=sharing)
 
-[Web Scraping Exercise](https://colab.research.google.com/drive/1egYeVhzxZJ_3AGEoK5bZIaxxLbpFBSLC?usp=share_link)
+[![Web Scraping Exercise](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1egYeVhzxZJ_3AGEoK5bZIaxxLbpFBSLC?usp=share_link)
 
-[API Coding Demo: Reddit](https://colab.research.google.com/drive/1XbHHRXuWzF_rMQ6dC-FAtob6Sfeh7q2u?usp=share_link)
+[![API Reddit](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XbHHRXuWzF_rMQ6dC-FAtob6Sfeh7q2u?usp=share_link)
 
-[API Coding Demo: Twitter](https://drive.google.com/file/d/10X6mMmwZ9uw06zLFh__2fNCskDIS8lXj/view?usp=share_link)
+[![API Twitter](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10X6mMmwZ9uw06zLFh__2fNCskDIS8lXj/view?usp=share_link)
 
-[API Coding Demo: Wikipedia](https://drive.google.com/file/d/1EQNE3zZkBXHMTXGnAD0Csp57Kg4zpqYi/view?usp=share_link)
+[![API Wikipedia](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1EQNE3zZkBXHMTXGnAD0Csp57Kg4zpqYi/view?usp=share_link)
 
 
 You can find the slides and the coding demo's base .ipynb file available for your reference within this repository as well.

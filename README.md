@@ -11,7 +11,7 @@ Web Scraping Exercise:
 
 API COVID Demo:
 
-[![API COVID Demo](https://colab.research.google.com/drive/1a64KVg43SXCGK-wJViWZKhXoF6_uY5wY?usp=sharing)
+[![API COVID Demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a64KVg43SXCGK-wJViWZKhXoF6_uY5wY?usp=sharing)
 
 API COVID Exercise:
 

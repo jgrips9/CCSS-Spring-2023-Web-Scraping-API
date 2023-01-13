@@ -9,6 +9,14 @@ Web Scraping Exercise:
 
 [![Web Scraping Exercise](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1egYeVhzxZJ_3AGEoK5bZIaxxLbpFBSLC?usp=share_link)
 
+API COVID Demo:
+
+[![API COVID Demo](https://colab.research.google.com/drive/1a64KVg43SXCGK-wJViWZKhXoF6_uY5wY?usp=sharing)
+
+API COVID Exercise:
+
+[![API COVID Exercise](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xA14MMwBFM1IuT4kMMA7vtRIINO8Wv1H?usp=sharing)
+
 API Reddit:
 
 [![API Reddit](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XbHHRXuWzF_rMQ6dC-FAtob6Sfeh7q2u?usp=share_link)

@@ -15,11 +15,11 @@ API Reddit:
 
 API Twitter:
 
-[![API Twitter](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10X6mMmwZ9uw06zLFh__2fNCskDIS8lXj/view?usp=share_link)
+[![API Twitter](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MI7flAbC-ylX-fBMNr3vU31czBhb3GAr?usp=sharing)
 
 API Wikipedia:
 
-[![API Wikipedia](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1EQNE3zZkBXHMTXGnAD0Csp57Kg4zpqYi/view?usp=share_link)
+[![API Wikipedia](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ab95XryOiL0dhwO4L1Axqcs8wBKlHTky?usp=sharing)
 
 
 You can find the slides and the coding demo's base .ipynb file available for your reference within this repository as well.
